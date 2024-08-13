@@ -1,17 +1,31 @@
-# README
+# Live2D-Studio
 
-### 사용법
+![title](./Images/settings.png)
 
-1. 실행파일(Live2D Avatar/Build/Live2D Avatar.exe)을 클릭
-2. 서버 연결
-   1. (Windows 환경시) 인게임내 Connect 버튼 클릭
-   2. (MAC 환경시) VTuber-Python-Unity-main 에서 main.py 실행
-      * python main.py --connect
+Live2D 아바타를 간편하게 이용할 수 있는 프로그램입니다.
 
-#### 배경화면 경로
+[Download Live2D-Studio](https://github.com/dhku/Live2D-Studio/releases)
 
-Live2D Avatar/Build/Live2D Avatar_Data/Background
+### 1. 특징
 
-#### 빌드시 유의사항
+* 프로그램내 카메라 연결 지원 (Connect 버튼 클릭)
+* 배경화면 및 크로마키 색상 지원
+* 메뉴 숨김 모드 지원
+* Live2D 아바타 스케일 및 위치 조정 지원
 
-프로젝트 빌드후 Live2D Avatar/override 디렉토리내 파일들을 빌드한 경로에 덮어씌우세요
+### 2. 유의사항
+
+1. 카메라를 PC에 먼저 연결 한후, Connect 버튼을 눌러주세요
+2. Lock 버튼 클릭시 메뉴가 사라집니다. (L키로 복귀 가능)
+
+### 3. 배경화면 경로
+
+​	배포 버전기준 Live2D-Studio_Data/Background에 이미지를 넣으세요
+
+### 4. 참조 
+
+* [VTuber-Python-Unity](https://github.com/mmmmmm44/VTuber-Python-Unity)
+* [Update Model Parameters](https://docs.live2d.com/en/cubism-sdk-tutorials/about-parameterupdating-of-model/)
+
+
+
