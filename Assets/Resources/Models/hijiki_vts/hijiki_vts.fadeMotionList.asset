@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: hijiki_vts.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: f029fdffa221fdff2cedfcffb6d2fcff8ed2fcff16d2fcff92b7fcff4eb7fcff44acfcff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 8157f5641542010479fe2237b155327b, type: 2}
+  - {fileID: 11400000, guid: a20cc61ab9d72ce45853919f330d3879, type: 2}
+  - {fileID: 11400000, guid: 8b4138ff659211046ab5c30a07b80658, type: 2}
+  - {fileID: 11400000, guid: 41e0f93b07fd3ca4dbab3a9d3d36f840, type: 2}
+  - {fileID: 11400000, guid: 083479748e1616b419b6f46d60a056e8, type: 2}
+  - {fileID: 11400000, guid: 7cae30a1ec646314da827ced373ba25b, type: 2}
+  - {fileID: 11400000, guid: 4d30525503e0c9441943effb49c580b3, type: 2}
+  - {fileID: 11400000, guid: 767e3b9fe0e7bc246ab5075a28386dbb, type: 2}
+  - {fileID: 11400000, guid: 0f6d5abf6158ee04da296feeed322260, type: 2}

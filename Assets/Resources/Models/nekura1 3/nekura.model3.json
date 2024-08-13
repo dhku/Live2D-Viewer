@@ -1,0 +1,69 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "nekura.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "nekura.physics3.json",
+		"DisplayInfo": "nekura.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Cry",
+				"File": "Cry.exp3.json"
+			},
+			{
+				"Name": "Pale",
+				"File": "Pale.exp3.json"
+			},
+			{
+				"Name": "Pupil Earthquake",
+				"File": "Pupil Earthquake.exp3.json"
+			},
+			{
+				"Name": "Trouble",
+				"File": "Trouble.exp3.json"
+			},
+			{
+				"Name": "anger",
+				"File": "anger.exp3.json"
+			},
+			{
+				"Name": "surprise",
+				"File": "surprise.exp3.json"
+			},
+			{
+				"Name": "cat's-eye",
+				"File": "cat's-eye.exp3.json"
+			},
+			{
+				"Name": "heart",
+				"File": "heart.exp3.json"
+			},
+			{
+				"Name": "star",
+				"File": "star.exp3.json"
+			}
+		],
+		"Motions": {
+			"Idle": [
+				{
+					"File": "Pupil Earthquake.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

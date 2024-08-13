@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: wanko_vts.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 782afdff182afdff6022fdff0222fdff22d3fcff66d2fcff0cb8fcffbab7fcfffcb6fcffd4b6fcff1cacfcffe6abfcff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 70b5d57a4f77e4f4a9b5520e1fbadd2d, type: 2}
+  - {fileID: 11400000, guid: d68c769999e9e854f9d043bc79fe1f52, type: 2}
+  - {fileID: 11400000, guid: 437209f79fa613e40b975ebb8a3bdce2, type: 2}
+  - {fileID: 11400000, guid: d677185945996de47beb81fd3a393df0, type: 2}
+  - {fileID: 11400000, guid: 25451e1b6295b3a41aaece747f1905c2, type: 2}
+  - {fileID: 11400000, guid: 07700fbd751f53147a0bf8c298ef359d, type: 2}
+  - {fileID: 11400000, guid: b3762f47cb08f374f9d4091c726f02d3, type: 2}
+  - {fileID: 11400000, guid: 77e708eea7db0f94d8a19cad7a054332, type: 2}
+  - {fileID: 11400000, guid: 704ae6a956049714cb63ab70e06a3e76, type: 2}
+  - {fileID: 11400000, guid: 45398ca76d3feca47b6831c1f39b34c2, type: 2}
+  - {fileID: 11400000, guid: 064c616a90a00fc49a43c65aca57fed8, type: 2}
+  - {fileID: 11400000, guid: 085b6605e359a094ba0e827f2f47e5a1, type: 2}
