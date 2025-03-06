@@ -1,5 +1,7 @@
 # Live2D-Viewer
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![chsharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![python]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)![live2d](https://img.shields.io/badge/Live2d-%230064BF.svg?style=for-the-badge&logoColor=white)[![downloads](https://img.shields.io/github/downloads/dhku/Live2D-Viewer/total?style=for-the-badge)](https://github.com/dhku/Live2D-Viewer/releases)
+
 ![title](./Images/settings.png)
 
 Live2D 아바타를 간편하게 이용할 수 있는 프로그램입니다.
